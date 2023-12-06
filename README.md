@@ -29,7 +29,7 @@ We have used geoapify route planner api to calculate road distance for each API.
 #Add description
 
 project1_pma_code.ipynb
-Developer - Patricia de Assis
+
 
 # Year & Season trends
 #Analysis: 
@@ -48,7 +48,7 @@ Developer - Patricia de Assis
     Analysis/Patricia-Total_Rides_Seasons.png
 
 TimenDay.ipynb
-Developer - Ekta Rangari
+
 # Analysing the Impact of the Day and Time on Ride Demand
 _________________________________________________________________
 To understand the factors influencing ride demand on the Uber platform, a comprehensive analysis was conducted, focusing on the temporal aspects of user behavior.
@@ -58,7 +58,7 @@ Fare Classification:Average, maximum, and standard fares were classified to prov
 ![image](output-2.png)
 
 
-Developer - Adam Faisal 
+
 
 The bar plot depicting the average fare amount over distance intervals is crucial for unraveling Uber's pricing dynamics. This visualization offers a comprehensive overview of how average fares fluctuate across various road distance brackets. By discerning trends within these intervals, it becomes possible to identify patterns in pricing strategy. Anomalies or significant variations in average fares can be flagged, prompting further investigation into potential pricing disparities. This insight-driven approach aids in making informed decisions about optimizing fare structures, ensuring competitiveness, and aligning pricing with user expectations.
 ![Screenshot 2023-11-20 173337](https://github.com/Leena-680/Project1/assets/129300626/f6439c6f-34c5-41f4-96f1-abd056797a2a)
@@ -71,7 +71,7 @@ On the other hand, the scatter plot illustrating the relationship between road d
 
 
 DistanceAnalysis.ipynb
-Developer - Leena Chauhan
+
 
 # Single passenger vs more than 1 passenger trends
 This code file compares how the choice to ride as single passenger or in group has changed over the years. Do people prefer to ride in group to save the cost? Has inflation affected people's choice to ride single or in a group? Following is the output.
